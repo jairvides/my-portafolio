@@ -1,0 +1,82 @@
+{
+  "data" : [
+    
+  ],
+  "english": [
+    {
+      "home": {
+        "names": {
+          "firstname": "Jair",
+          "lastname": "Vides"
+        },
+        "profession": "Software Development Technician",
+        "age": 34,
+        "city": "Algarrobo - Magdalena (Colombia)",
+        "email": "vides.jair@gmail.com",
+        "telephone": "(+57)320 503 98 85"
+      },
+
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/jairvides",
+        "facebook": "https://www.facebook.com/jairvides",
+        "instagram": "https://www.instagram.com/riajsediv",
+        "twitter": "https://twitter.com/JAIRVIDES",
+        "github": "https://github.com/jairvides"
+      },
+
+      "profile": {
+        "description": "I am a person, responsible with their work during working hours. I've several month of experience in the labor field. I've projects using html + css + javascript."
+      },
+
+      "education": {
+        "first": {
+          "title": "BASIC PROGRAMMING",
+          "entity": "UPB (University)",
+          "year": "06/2021 - 12/2021"
+        },
+
+        "second": {
+          "title": "SOFTARE DEVELOPMENT TECHNICIAN",
+          "entity": "SENA",
+          "year": "05/2019 - 05/2021"
+        },
+
+        "third": {
+          "title": "HTML, CSS, AND JAVASCRIPT FOR WEB DEVELOPERS",
+          "entity": "Cousera(On line)",
+          "year": "2021"
+        }
+      },
+
+      "skills": ["html", "css", "javascrip", "react"],
+
+      "experience": {
+        "first": {
+          "title": "SENA & EVERIS",
+          "company": "From 2020 to 2021 | Software Development Technician",
+          "description": "Work in this company dedicating the best responsibility in the area that corresponds, delivering the best results for the company and improving productivity. Creating web application for grocery SME on my city, using php, css, jquery, javascript and ajax."
+        },
+
+        "second": {
+          "title": "SENA",
+          "company": "From 2019 to 2021 | Software Development Technician",
+          "description": "Collaborative work, creating Education Management information system for an Institution Educative in my country using php, html, css, jquery, mysql, and javascript."
+        }
+      },
+
+      "portafolio": {
+        "first": {
+          "web": "https://shopping-cart-2022.netlify.app",
+          "name": "cart"
+        },
+
+        "second": {
+          "web": "https://jairvides.github.io/Ristorante-ConFusion",
+          "name": "Restaurant"
+        }
+      },
+
+      "interest": ["Gospel Music", "Travel", "Read"]
+    }
+  ]
+}
