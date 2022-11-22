@@ -1,6 +1,15 @@
 {
-  "data" : [
-    
+  "data": [
+    {
+      "name": "Home",
+      "href": "#home",
+      "class": "bx bx-home nav__icon active-link"
+    },
+    {
+      "name": "Education",
+      "href": "#education",
+      "class": "bx bxs-graduation nav__icon"
+    }
   ],
   "english": [
     {
