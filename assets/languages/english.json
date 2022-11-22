@@ -83,9 +83,39 @@
       "class": "bx bx-home nav__icon active-link"
     },
     {
+      "name": "Profile",
+      "href": "#profile",
+      "class": "bx bx-user nav__icon"
+    },
+    {
       "name": "Education",
       "href": "#education",
       "class": "bx bxs-graduation nav__icon"
+    },
+    {
+      "name": "Skills",
+      "href": "#skills",
+      "class": "bx bx-receipt nav__icon"
+    },
+    {
+      "name": "Experience",
+      "href": "#experience",
+      "class": "bx bx-briefcase-alt nav__icon"
+    },
+    {
+      "name": "Certificates",
+      "href": "#certificates",
+      "class": "bx bx-award nav__icon"
+    },
+    {
+      "name": "References",
+      "href": "#references",
+      "class": "bx bx-link-external nav__icon"
+    },
+    {
+      "name": "Portafolio",
+      "href": "#portafolio",
+      "class": "bx bx-cabinet nav__icon"
     }
   ]
 }
